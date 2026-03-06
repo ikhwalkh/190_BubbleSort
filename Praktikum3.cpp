@@ -47,3 +47,11 @@ void display()
         cout << "Data ke -" << i << " : " << a[i] << endl;
     }
 }
+
+
+void BubbleSort()
+{
+    cout << "\n===================" << endl;
+    cout << "Hasil Setiap Pass" << endl;
+    cout << "=================" << endl;
+}
