@@ -4,6 +4,7 @@ using namespace std;
 int a[20];
 int n;
 
+//void nya
 void input()
 {
     while(true)
